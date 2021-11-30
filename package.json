@@ -1,0 +1,22 @@
+{
+  "name": "dex",
+  "version": "1.0.0",
+  "description": "dex ethereum 201",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "dex",
+    "eth",
+    "solidity"
+  ],
+  "author": "ruchi",
+  "license": "ISC",
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.4.0"
+  }
+}
